@@ -1,0 +1,50 @@
+.flex-container {
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly
+}
+.cantainer {
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.cyntyiner {
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: baseline;
+}
+.aboba{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.abobe2{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.vlid {
+ display: flex;
+ justify-content: space-between;
+
+}
+.row { 
+    display: flex;
+    justify-content: left;
+
+}
+    
+.container{
+    display: flex;
+flex-direction: row;
+justify-content: space-evenly
+}
+.masik{
+    display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.xz{
+    color: rgb(0, 42, 255)
+}
